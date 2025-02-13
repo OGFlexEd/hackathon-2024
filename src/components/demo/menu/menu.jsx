@@ -1,29 +1,24 @@
 import './style.css';
 import { Menudata } from './menudata';
-import React from 'react'
+import React from 'react';
 
 function Menu() {
   return (
-    <div className = 'Menu'>
+    <div className="Menu">
       <ul className="Menulist">
-        {Menudata.map((val, key) => {
-          return (
-            <li
-              key={key}
-              className="row"
-              id={window.location.pathname == val.link? "active" : ""}
-              onClick={() => {
-                window.location.pathname = val.link
-              }}
-            >
-              <div id="icon">{val.icon}</div>
-              <div id="title">{val.title}</div>
-            </li>
-          );
-        })}
+        {Menudata && Menudata.map((val, key) => (
+          <li
+            key={val.id || key} 
+            className={`row ${window.location.pathname === val.link ? "active" : ""}`}
+            onClick={() => (window.location.href = val.link)}
+          >
+            <div className="icon">{val.icon}</div>
+            <div className="title">{val.title}</div>
+          </li>
+        ))}
       </ul>
     </div>
-  )
+  );
 }
 
-export default Menu
+export default Menu;
