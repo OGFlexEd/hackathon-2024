@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FlexEd-Website/%3E/static/css/main.9d789b2c.css",
+    "main.js": "/FlexEd-Website/%3E/static/js/main.6634a1af.js",
+    "static/js/453.34cf5d71.chunk.js": "/FlexEd-Website/%3E/static/js/453.34cf5d71.chunk.js",
+    "static/media/chatwallpaper.jpg": "/FlexEd-Website/%3E/static/media/chatwallpaper.7a80b7e3878f9131833d.jpg",
+    "static/media/chatwallpaper2.jpg": "/FlexEd-Website/%3E/static/media/chatwallpaper2.4b875850e0bda27b9063.jpg",
+    "static/media/confetti.jpg": "/FlexEd-Website/%3E/static/media/confetti.8929e9af9112850a5cd2.jpg",
+    "index.html": "/FlexEd-Website/%3E/index.html",
+    "main.9d789b2c.css.map": "/FlexEd-Website/%3E/static/css/main.9d789b2c.css.map",
+    "main.6634a1af.js.map": "/FlexEd-Website/%3E/static/js/main.6634a1af.js.map",
+    "453.34cf5d71.chunk.js.map": "/FlexEd-Website/%3E/static/js/453.34cf5d71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d789b2c.css",
+    "static/js/main.6634a1af.js"
+  ]
+}
