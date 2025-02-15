@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FlexEd-Website/static/css/main.dded6cbe.css",
-    "main.js": "/FlexEd-Website/static/js/main.6163bdaa.js",
-    "static/js/453.34cf5d71.chunk.js": "/FlexEd-Website/static/js/453.34cf5d71.chunk.js",
-    "static/media/chatwallpaper.jpg": "/FlexEd-Website/static/media/chatwallpaper.7a80b7e3878f9131833d.jpg",
-    "static/media/chatwallpaper2.jpg": "/FlexEd-Website/static/media/chatwallpaper2.4b875850e0bda27b9063.jpg",
-    "static/media/confetti.jpg": "/FlexEd-Website/static/media/confetti.8929e9af9112850a5cd2.jpg",
-    "index.html": "/FlexEd-Website/index.html",
-    "main.dded6cbe.css.map": "/FlexEd-Website/static/css/main.dded6cbe.css.map",
-    "main.6163bdaa.js.map": "/FlexEd-Website/static/js/main.6163bdaa.js.map",
-    "453.34cf5d71.chunk.js.map": "/FlexEd-Website/static/js/453.34cf5d71.chunk.js.map"
+    "main.css": "/hackathon-2024/static/css/main.02e26cee.css",
+    "main.js": "/hackathon-2024/static/js/main.af9880e4.js",
+    "static/js/453.34cf5d71.chunk.js": "/hackathon-2024/static/js/453.34cf5d71.chunk.js",
+    "static/media/chatwallpaper.jpg": "/hackathon-2024/static/media/chatwallpaper.7a80b7e3878f9131833d.jpg",
+    "static/media/chatwallpaper2.jpg": "/hackathon-2024/static/media/chatwallpaper2.4b875850e0bda27b9063.jpg",
+    "static/media/confetti.jpg": "/hackathon-2024/static/media/confetti.8929e9af9112850a5cd2.jpg",
+    "index.html": "/hackathon-2024/index.html",
+    "main.02e26cee.css.map": "/hackathon-2024/static/css/main.02e26cee.css.map",
+    "main.af9880e4.js.map": "/hackathon-2024/static/js/main.af9880e4.js.map",
+    "453.34cf5d71.chunk.js.map": "/hackathon-2024/static/js/453.34cf5d71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dded6cbe.css",
-    "static/js/main.6163bdaa.js"
+    "static/css/main.02e26cee.css",
+    "static/js/main.af9880e4.js"
   ]
 }
